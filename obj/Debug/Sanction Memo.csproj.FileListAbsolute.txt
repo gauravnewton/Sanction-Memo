@@ -1,0 +1,17 @@
+D:\C# programs\Sanction Memo\Sanction Memo\bin\Debug\Sanction Memo.exe
+D:\C# programs\Sanction Memo\Sanction Memo\bin\Debug\Sanction Memo.pdb
+D:\C# programs\Sanction Memo\Sanction Memo\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\C# programs\Sanction Memo\Sanction Memo\bin\Debug\MetroFramework.dll
+D:\C# programs\Sanction Memo\Sanction Memo\bin\Debug\MetroFramework.Fonts.dll
+D:\C# programs\Sanction Memo\Sanction Memo\bin\Debug\Tulpep.NotificationWindow.dll
+D:\C# programs\Sanction Memo\Sanction Memo\bin\Debug\Xceed.Document.NET.dll
+D:\C# programs\Sanction Memo\Sanction Memo\bin\Debug\Xceed.Words.NET.dll
+D:\C# programs\Sanction Memo\Sanction Memo\obj\Debug\Sanction_Memo.Form1.resources
+D:\C# programs\Sanction Memo\Sanction Memo\obj\Debug\Sanction_Memo.Properties.Resources.resources
+D:\C# programs\Sanction Memo\Sanction Memo\obj\Debug\Sanction Memo.csproj.GenerateResource.cache
+D:\C# programs\Sanction Memo\Sanction Memo\obj\Debug\Sanction Memo.csproj.CoreCompileInputs.cache
+D:\C# programs\Sanction Memo\Sanction Memo\obj\Debug\Sanction Memo.csproj.CopyComplete
+D:\C# programs\Sanction Memo\Sanction Memo\obj\Debug\Sanction Memo.exe
+D:\C# programs\Sanction Memo\Sanction Memo\obj\Debug\Sanction Memo.pdb
+D:\C# programs\Sanction Memo\Sanction Memo\obj\Debug\Sanction Memo.csproj.AssemblyReference.cache
+D:\C# programs\Sanction Memo\Sanction Memo\obj\Debug\Sanction_Memo.Form2.resources
